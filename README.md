@@ -4,6 +4,7 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lacerdaxz_k/)
 
 ![Cristofer GitHub stats](https://github-readme-stats.vercel.app/api?username=CristoferLacerda&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
  ## Tecnologias que utilizo ⚙
 
